@@ -1,0 +1,43 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7JMN9R74Y6.sg.com.singaporepower.infinity-alpha",
+        "paths": [
+          "NOT /__/auth/action/",
+          "NOT /__/auth/handler/",
+          "NOT /_/*",
+          "/*"
+        ]
+      },
+      {
+        "appID": "7JMN9R74Y6.sg.com.singaporepower.infinity-beta",
+        "paths": [
+          "NOT /__/auth/action/",
+          "NOT /__/auth/handler/",
+          "NOT /_/*",
+          "/*"
+        ]
+      },
+      {
+        "appID": "TMVCZC35WK.sg.com.singaporepower.infinity-enterprise",
+        "paths": [
+          "NOT /__/auth/action/",
+          "NOT /__/auth/handler/",
+          "NOT /_/*",
+          "/*"
+        ]
+      },
+      {
+        "appID": "TMVCZC35WK.sg.com.singaporepower.spsccm",
+        "paths": [
+          "NOT /__/auth/action/",
+          "NOT /__/auth/handler/",
+          "NOT /_/*",
+          "/*"
+        ]
+      }
+    ]
+  }
+}
